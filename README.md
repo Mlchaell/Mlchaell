@@ -6,7 +6,7 @@ Currently closed!
 
 Coming Soon!
 
-<h1>Contact</h1>
+<h1>Contact & Portfolio</h1>
 
 <b>Website:</b> COMING SOON
 
