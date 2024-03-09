@@ -1,6 +1,8 @@
-Freelance Status: Closed
+<h1>Freelancing</h1>
 
-<hr>
+<h1>Projects & Work</h1>
+
+<h1>Contact</h1>
 
 <b>Website:</b> COMING SOON
 
