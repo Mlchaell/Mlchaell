@@ -2,12 +2,12 @@ Freelance Status: Closed
 
 <hr>
 
-Website: COMING SOON
+<b>Website:</b> COMING SOON
 
-Email: COMING SOON
+<b>Email:</b> COMING SOON
 
-Discord: COMING SOON
+<b>Discord:</b> COMING SOON
 
-Twitter: COMING SOON
+<b>Twitter:</b> COMING SOON
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
