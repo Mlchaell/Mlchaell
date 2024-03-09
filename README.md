@@ -1,4 +1,4 @@
-<h2>Freelance Status:</h2> Closed
+Freelance Status: Closed
 
 <hr>
 
