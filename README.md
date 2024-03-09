@@ -1,5 +1,7 @@
 Freelance Status: Closed
 
+<hr>
+
 Website: COMING SOON
 
 Email: COMING SOON
