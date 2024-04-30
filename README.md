@@ -8,7 +8,7 @@ Coming Soon!
 
 <h1>Contact & Portfolio</h1>
 
-<b>Website:</b> [withmichale.io](https://withmichael.io)
+<b>Website:</b> [withmichael.io](https://withmichael.io)
 
 <b>Email:</b> COMING SOON
 
