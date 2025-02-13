@@ -8,10 +8,10 @@ Coming Soon!
 
 <h1>Contact & Portfolio</h1>
 
-<b>Website:</b> [withmichael.io](https://withmichael.io)
+<b>Website:</b> x
 
-<b>Email:</b> COMING SOON
+<b>Email:</b> x
 
-<b>Discord:</b> COMING SOON
+<b>Discord:</b> x
 
-<b>Twitter:</b> COMING SOON
+<b>Twitter:</b> x
